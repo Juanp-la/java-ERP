@@ -1,0 +1,4 @@
+PHY201,Física,2
+MAT101,Matemáticas,1
+CS401,Programación,4
+CHE301,Química,3
